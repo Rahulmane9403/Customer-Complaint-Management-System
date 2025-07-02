@@ -26,7 +26,7 @@ Track customer complaints and resolve them using automated assignment and admin 
 - Department-wise and Agent-wise performance
 
 ## 🧾 Screenshots
-[Project Implementation (PDF)]
+[Project Implementation (PDF)](./Customer Complaint Management system.pdf)
 
 ## 📜 Trailhead Profile
 [[Visit My Trailhead Profile](https://www.salesforce.com/trailblazer/rmane70)]
